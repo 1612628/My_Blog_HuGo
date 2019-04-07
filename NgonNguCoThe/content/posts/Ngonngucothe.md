@@ -1,5 +1,5 @@
 # <center>Ngôn ngữ cơ thể </center>   
-        Đặt ra câu hỏi: Tại sao qua đường đông người (chỗ vạch cho người đi bộ qua) lại cần giơ tay lên? Ý nghĩa của động tác đó?  
+>Đặt ra câu hỏi: Tại sao qua đường đông người (chỗ vạch cho người đi bộ qua) lại cần giơ tay lên? Ý nghĩa của động tác đó?  
   
 ### Khi qua đường ta cần giơ tay lên theo mình do một vài yếu tố sau đây:  
   
@@ -56,7 +56,7 @@ Một ví dụ đơn giản như hình trên, ánh mắt của mọi người xu
 ### Tóm gọn lại, ý nghĩa của việc khi qua đường đông xe cần giơ tay là một hành động gây sự chú ý để đảm bảo an toàn cho người qua đường và người điểu khiển phương tiện. Thêm vào đó, hành động này còn thể hiện tính nhân văn xin đường và nhường đường trong giao thông.
 
 <!-- Images -->
-[canh-sat-dieu-phoi-giao-thong]: assets/images/Hieu-lenh-giao-thong-1.jpg   
-[nguoi-dan-ong-cao]:assets/images/tallesmanchinese.jpg
+[canh-sat-dieu-phoi-giao-thong]: .\assets\images\Hieu-lenh-giao-thong-1.jpg   
+[nguoi-dan-ong-cao]: .\assets\images\tallesmanchinese.jpg
 
 
