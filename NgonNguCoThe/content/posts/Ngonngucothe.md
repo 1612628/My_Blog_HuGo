@@ -57,6 +57,6 @@ Một ví dụ đơn giản như hình trên, ánh mắt của mọi người xu
 
 <!-- Images -->
 [canh-sat-dieu-phoi-giao-thong]: http://3.bp.blogspot.com/-rJdSrVMJL5Y/VY7D8faGlkI/AAAAAAAAFAg/oqKtG6I58LY/s1600/Hieu-lenh-giao-thong-1.jpg  
-[nguoi-dan-ong-cao]: ./assets/images/tallesmanchinese.jpg
+[nguoi-dan-ong-cao]: /assets/images/tallesmanchinese.jpg
 
 
