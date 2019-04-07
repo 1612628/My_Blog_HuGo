@@ -56,7 +56,7 @@ Một ví dụ đơn giản như hình trên, ánh mắt của mọi người xu
 ### Tóm gọn lại, ý nghĩa của việc khi qua đường đông xe cần giơ tay là một hành động gây sự chú ý để đảm bảo an toàn cho người qua đường và người điểu khiển phương tiện. Thêm vào đó, hành động này còn thể hiện tính nhân văn xin đường và nhường đường trong giao thông.
 
 <!-- Images -->
-[canh-sat-dieu-phoi-giao-thong]: http://3.bp.blogspot.com/-rJdSrVMJL5Y/VY7D8faGlkI/AAAAAAAAFAg/oqKtG6I58LY/s1600/Hieu-lenh-giao-thong-1.jpg  
-[nguoi-dan-ong-cao]: assets/images/tallesmanchinese.jpg
+[canh-sat-dieu-phoi-giao-thong]: /assets/images/Hieu-lenh-giao-thong-1.jpg
+[nguoi-dan-ong-cao]: /assets/images/tallesmanchinese.jpg
 
 
