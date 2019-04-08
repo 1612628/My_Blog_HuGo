@@ -1,5 +1,5 @@
 baseURL = "http://1612628.github.io/"
 languageCode = "vi"
 title = "Duy-Thanh Blog"
-theme = "story"
+theme = "ananke"
 
