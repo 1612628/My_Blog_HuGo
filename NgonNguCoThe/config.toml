@@ -1,25 +1,5 @@
 baseURL = "http://1612628.github.io/"
 languageCode = "vi"
 title = "Duy-Thanh Blog"
-theme = "mediumish-gohugo-theme"
-summaryLength = 25
-copyright = "Duy-Thanh Nguyen - All rights reserved"
-disqusShortname = "Thanh"
-googleAnalytics = "UA-137905017-1"
-[params]
-  logo = "/images/author.jpg"
-  description ="My clean blog!"
-  mailchimp = "you can provide a mailchimp-link here, see below"
-  mailprotect = "you can provide a protector-name here, see below"
-[params.author]
-  name = "Duy-Thanh Nguyen"
-  thumbnail = "/images/author.jpg"
-  description = "Creator of this blog."
-
-[params.social]
-  github = "1612628"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "ThanhNguyenDuy8"
-  instagram = "<username>"
+theme = "hugo-theme-minos"
+paginate = 10
