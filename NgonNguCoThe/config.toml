@@ -7,7 +7,7 @@ copyright = "Duy-Thanh Nguyen - All rights reserved"
 disqusShortname = "Thanh"
 googleAnalytics = "UA-137905017-1"
 [params]
-  logo = "/images/icon.png"
+  logo = "/images/author.jpg"
   description ="My clean blog!"
   mailchimp = "you can provide a mailchimp-link here, see below"
   mailprotect = "you can provide a protector-name here, see below"
