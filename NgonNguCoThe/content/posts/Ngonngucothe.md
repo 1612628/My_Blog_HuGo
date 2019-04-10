@@ -7,7 +7,7 @@ title: "Ngôn ngữ cơ thể"
 ---
 
 
-# <center>Ngôn ngữ cơ thể </centeindia
+# <center>Ngôn ngữ cơ thể </center>
 >Đặt ra câu hỏi: Tại sao qua đường đông người (chỗ vạch cho người đi bộ qua) lại cần giơ tay lên? Ý nghĩa của động tác đó?  
   
 ### Khi qua đường ta cần giơ tay lên theo mình do một vài yếu tố sau đây:  
