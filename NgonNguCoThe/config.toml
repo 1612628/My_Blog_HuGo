@@ -1,5 +1,5 @@
 baseURL = "http://1612628.github.io/"
-languageCode = "vi"
+languageCode = "en-us"
 title = "Duy-Thanh Blog"
 author = "Duy-Thanh Nguyen"
 theme = "hugo-dgraph-theme"
