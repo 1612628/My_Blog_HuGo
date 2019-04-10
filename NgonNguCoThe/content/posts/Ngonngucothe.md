@@ -2,7 +2,7 @@
 date: 2018-04-05T10:58:08-04:00
 description: "Tại sao phải giơ tay khi qua đường"
 featured_image: "/images/people-in-india.png"
-tags: ["soft-skill"]
+tags: ["soft-skill","verbal-thinking"]
 title: "Ngôn ngữ cơ thể"
 ---
 
