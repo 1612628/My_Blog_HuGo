@@ -16,8 +16,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  favicon = "./static/images/author.jpg"
+  description = "This is my life experiences shared site"
   facebook = ""
   twitter = ""
   instagram = ""

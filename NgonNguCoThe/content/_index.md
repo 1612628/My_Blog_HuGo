@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "NO PAIN NO GAIN"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "This is my life experiences shared site"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog with some of my work in progress. I've been working on this blog for sharing thoughts and experiences about life.
