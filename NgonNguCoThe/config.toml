@@ -2,6 +2,7 @@ baseURL = "http://1612628.github.io/"
 languageCode = "vi"
 title = "Duy-Thanh Blog"
 author = "Duy-Thanh Nguyen"
+theme = "hugo-dgraph-theme"
 
 # Number of blogs you want to list on a single page.
 paginate = 5
