@@ -1,4 +1,13 @@
-# <center>Ngôn ngữ cơ thể </center>   
+---
+date: 2018-04-05T10:58:08-04:00
+description: "Tại sao phải giơ tay khi qua đường"
+featured_image: "/images/people-in-india.jpg"
+tags: ["soft-skill"]
+title: "Ngôn ngữ cơ thể"
+---
+
+
+# <center>Ngôn ngữ cơ thể </centeindia
 >Đặt ra câu hỏi: Tại sao qua đường đông người (chỗ vạch cho người đi bộ qua) lại cần giơ tay lên? Ý nghĩa của động tác đó?  
   
 ### Khi qua đường ta cần giơ tay lên theo mình do một vài yếu tố sau đây:  
