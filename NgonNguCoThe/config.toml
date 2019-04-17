@@ -33,7 +33,7 @@
 
 baseURL = "https://1612628.github.io"
 languageCode = "en"
-title = "Hugo Blog"
+title = "Duy-Thanh Blog"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -55,11 +55,11 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "home"
   url = "/"
 
-[[menu.main]]
-  name = "Works"
-  weight = 20
-  identifier = "works"
-  url = "https://github.com/laozhu"
+# [[menu.main]]
+#   name = "Works"
+#   weight = 20
+#   identifier = "works"
+#   url = "https://github.com/1612628"
 
 [[menu.main]]
   name = "Tags"
@@ -69,21 +69,19 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Add your own params here
 [params]
-  author = "Ritchie Zhu"
+  author = "Duy-Thanh Nguyen"
   bg = "images/grey-prism.svg"
   avatar = "images/avatar.png"
   seotitle = "Hugo Blog (SEO Version)"
   subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
   paginate = 10
 
   # Choose your social networks
-  email = "name@domain.com"
-  github = "github_username"
-  twitter = "twitter_username"
-  linkedin = "linkedin_username"
-  weibo = "weibo_username"
-  wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
+  email = "thanhnguyenduy2304@gmail.com"
+  github = "1612628"
+  twitter = ""
+  linkedin = ""
+  # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
   # instagram = "instagram_username"
@@ -106,35 +104,3 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Overrid theme styles in this file
   # customStyle = "styles/custom.scss"
-
-  # Changyan Comments (China Only)
-  changyan = false
-  changyanId = "cyt3toRiB"
-  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
-
-  # Google Webmaster
-  # https://www.google.com/webmasters/
-  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
-
-  # Bing Webmaster
-  # https://www.bing.com/toolbox/webmaster/
-  msValidate = "22596E34341DD1D17D6022C44647E587"
-
-  # Baidu Webmaster (China Only)
-  # https://zhanzhang.baidu.com/
-  # baiduSiteVerification = "MZ23SPxxfa"
-
-  # Sogou Webmaster (China Only)
-  # http://zhanzhang.sogou.com/
-  # sogouSiteVerification = "m2jktMQTZm"
-
-  # 360 Webmaster (China Only)
-  # http://zhanzhang.so.com/
-  # soSiteVerification = "b7ab3b4c2edbc856642004d1b8c27a91"
-
-  # Baidu Tongji (China Only)
-  # https://tongji.baidu.com/
-  # baiduTongji = "e21dc1e8a592188271b615159dc88af7"
-
-  # ICP Number (China Only)
-  # ICP = "苏ICP备16005986号-2"
