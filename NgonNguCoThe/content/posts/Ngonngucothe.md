@@ -56,7 +56,7 @@ Khi giơ ta và mở lòng bàn tay về phía dòng xe là chúng ta đang tự
 #### Bẩm sinh của việc gây sự chú ý.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Bẩm sinh, khi chúng ta muốn gây sự chú ý ngoài sử dụng âm thanh, thì cử chỉ không lời là cách gây sự chú ý hiệu quả nhất.Ta xét đến tại sao để gây được sự chú ý thì ta lại hành động giơ tay?  
-* Đó là vì nhận thức của chúng ta sẽ thường *nhận biết/ chú ý đến cái riêng biệt trong một nhóm gần tương đồng*về một khía cạnh nào đó.  
+ Đó là vì nhận thức của chúng ta sẽ thường *nhận biết/ chú ý đến cái riêng biệt trong một nhóm gần tương đồng* về một khía cạnh nào đó.  
 
 ![nguoi-dan-ong-cao]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
