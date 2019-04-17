@@ -1,5 +1,5 @@
 ---
-date: 2018-04-05T10:58:08-04:00
+date: 2019-04-10T10:58:08-04:00
 description: "Tại sao phải giơ tay khi qua đường"
 featured_image: "/images/people-in-india.png"
 tags: ["soft-skill","verbal-thinking"]
@@ -16,7 +16,7 @@ title: "Ngôn ngữ cơ thể"
 #### 1. Do chúng ta học hỏi (bắt trước) từ môi trường xung quanh:  
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Chung ta có xu hướng (thói quen) học hỏi và làm theo các hành động của mọi người xung quanh như một chuẩn giao tiếp từ khi còn bé và đó cũng là một bản năng của con người. Bắt trước từ người lớn, người có kinh nghiệm. Riêng biệt ở đây là bắt trước từ những vị cảnh sát điều hướng giao thông.  
+Chung ta có xu hướng (thói quen) học hỏi và làm theo các hành động của mọi người xung quanh như một chuẩn giao tiếp từ khi còn bé và đó cũng là một bản năng của con người. Bắt chước từ người lớn, người có kinh nghiệm. Riêng biệt ở đây là bắt trước từ những vị cảnh sát điều hướng giao thông.  
 
 Chúng ta có một câu hỏi về luật giao thông:  
 ![canh-sat-dieu-phoi-giao-thong]    
