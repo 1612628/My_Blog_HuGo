@@ -48,7 +48,7 @@ Nghe hơi lạ lẫm khi giơ tay lên là một hành động cám ơn. Nhưng 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Tình huống này thiên về một số cá nhân hơn là cảm nhận chung của nhiều người. Khi chúng ta qua đường và giơ tay lên, lòng bàn tay sẽ có xu hướng mở ra hướng về phía dòng xe đang chạy tới. Vậy tại sao lại có hành động như vậy?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Lý do lòng bàn tay mở ra hướng về phía dòng xe đang chạy tới giúp người qua đường tự tạo ra một cảm giác chống đỡ ảo. Tức là về phía bản năng, chúng ta có sẽ xu hướng dùng lòng bàn tay mở ra để chống lại các tác động bất giờ hoặc các vật di chuyển về hướng của chúng ta với tốc độ cao.  
+Lý do lòng bàn tay mở ra hướng về phía dòng xe đang chạy tới giúp người qua đường tự tạo ra một cảm giác chống đỡ ảo. Tức là về phía bản năng, chúng ta có sẽ xu hướng dùng lòng bàn tay mở ra để chống lại các tác động bất ngờ hoặc các vật di chuyển về hướng của chúng ta với tốc độ cao.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Khi giơ ta và mở lòng bàn tay về phía dòng xe là chúng ta đang tự tạo cho bản thân một lá chắn vô hình giúp tinh thần cảm thấy an toàn hơn và có sự phòng bị tốt hơn cho tình huống bất ngờ.
 
@@ -56,13 +56,14 @@ Khi giơ ta và mở lòng bàn tay về phía dòng xe là chúng ta đang tự
 #### Bẩm sinh của việc gây sự chú ý.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Bẩm sinh, khi chúng ta muốn gây sự chú ý ngoài sử dụng âm thanh, thì cử chỉ không lời là cách gây sự chú ý hiệu quả nhất.Ta xét đến tại sao để gây được sự chú ý thì ta lại hành động giơ tay?  
-* Đó là vì nhận thức của chúng ta sẽ thường _nhận biết/ chú ý đến cái riêng biệt trong một nhóm gần tương đồng_về một khía cạnh nào đó.  
+* Đó là vì nhận thức của chúng ta sẽ thường *nhận biết/ chú ý đến cái riêng biệt trong một nhóm gần tương đồng*về một khía cạnh nào đó.  
 
 ![nguoi-dan-ong-cao]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Một ví dụ đơn giản như hình trên, ánh mắt của mọi người xung quanh hầu hết đều tập trung lên người đàn ông cao to, vì **chiều cao** của anh ta quá khác biệt với tất mọi người còn lại.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
-### Tóm gọn lại, ý nghĩa của việc khi qua đường đông xe cần giơ tay là một hành động gây sự chú ý để đảm bảo an toàn cho người qua đường và người điểu khiển phương tiện. Thêm vào đó, hành động này còn thể hiện tính nhân văn xin đường và nhường đường trong giao thông.
+Một ví dụ đơn giản như hình trên, ánh mắt của mọi người xung quanh hầu hết đều tập trung lên người đàn ông cao to, vì **chiều cao** của anh ta quá khác biệt với tất mọi người còn lại, vì mọi người xung quanh có sự tương đồng về chiều cao (không chênh lệch nhiều) nên anh chàng cao to trở thành tâm điểm của sự chú ý.  
+
+### Tóm gọn lại, ý nghĩa của việc khi qua đường đông xe cần giơ tay là một hành động bẩm sinh của chúng ta nhằm gây sự chú ý để đảm bảo an toàn cho bản thân và người điểu khiển phương tiện. Thêm vào đó, hành động này còn thể hiện tính nhân văn xin đường và nhường đường trong văn hóa giao thông.
 
 <!-- Images -->
 [canh-sat-dieu-phoi-giao-thong]: /assets/images/Hieu-lenh-giao-thong-1.jpg
