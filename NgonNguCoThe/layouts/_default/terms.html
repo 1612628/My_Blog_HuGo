@@ -1,22 +1,20 @@
+{{ define "title" }}
+  Tags | {{ if isset .Site.Params "seotitle" }}{{ .Site.Params.seotitle }}{{ else }}{{ .Site.Title }}{{ end }}
+{{ end }}
+
 {{ define "main" }}
-    {{ $data := .Data }}
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
-      {{ .Content }}
-    </div>
-  </article>
-  <div class="mw8 center">
-    <section class="ph4">
-      {{ range $key, $value := .Data.Terms }}
-        <h2 class="f1">
-          <a href="{{ "/" | relLangURL }}{{ $.Data.Plural | urlize }}/{{ $key | urlize }}" class="link blue hover-black">
-            {{ $.Data.Singular | humanize }}: {{ $key }}
-          </a>
-        </h2>
-        {{ range $value.Pages }}
-          {{ partial "summary.html" . }}
-        {{ end }}
+  {{ partial "header.html" . }}
+  <section class="main post-detail terms-list">
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+    <div class="tags-cloud">
+      {{ $data := .Data }}
+      {{ range $key, $value := $data.Terms.ByCount }}
+        {{ $weight := $value.Count }}
+        <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}/" class="tag-{{ if eq $weight 1 }}s{{ else if eq $weight 2 }}m{{ else if eq $weight 4 }}l{{ else if eq $weight 8 }}xl{{ else }}xxl{{ end }}">{{ $value.Name }}</a>
       {{ end }}
-    </section>
-  </div>
+    </div>
+  </section>
+  {{ partial "footer.html" . }}
 {{ end }}

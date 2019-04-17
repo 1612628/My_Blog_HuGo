@@ -34,7 +34,7 @@
 baseURL = "https://1612628.github.io"
 languageCode = "en"
 title = "Duy-Thanh Blog"
-theme = "hugo-nuo"
+# theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
